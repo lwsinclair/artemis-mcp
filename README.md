@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/artemis-xyz-artemis-mcp)
+
 ## artemis-mcp
 
 ```
